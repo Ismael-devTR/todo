@@ -26,3 +26,5 @@ use the next commands to clone iside your computer.
   the short way (`$ rails s`)
   
   `$ rails server`
+
+![](https://www.dropbox.com/s/pvld3vhqiyqjr61/Screenshot%20from%202022-03-02%2016-01-12.png?dl=0)
