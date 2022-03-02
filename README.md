@@ -1,24 +1,28 @@
 # README
+This is a basic project to test knoweledge
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Requirements
+* Git intalled
+* NodeJs
+* Ruby Version 3.0.3
+* postgresql
 
-Things you may want to cover:
+## Download
+use the next commands to clone iside your computer.
 
-* Ruby version
+`$ git clone https://github.com/Ismael-devTR/todo.git`
 
-* System dependencies
+## After cloning the repository follow the steps.
+* Install dependencies.
+  
+  `$ bundle install`
+* Create db.
 
-* Configuration
+  `$ rails db:create`
+* Make migrations.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  `$ rails db:migrate`
+* Run the server.
+  the short way (`$ rails s`)
+  
+  `$ rails server`
