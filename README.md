@@ -27,4 +27,4 @@ use the next commands to clone iside your computer.
   
   `$ rails server`
 
-![](https://i.postimg.cc/tCX5JgWC/Screenshot-from-2022-03-02-16-01-12.png)
+![](https://i.postimg.cc/XvHfrKKV/Screenshot-from-2022-03-02-16-01-12.png)
